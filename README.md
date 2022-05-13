@@ -45,3 +45,9 @@ src="https://img.shields.io/github/followers/pynkstarr?logo=github&style=for-the
 <h2> Music </h2>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pynkstarr&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=pynkstarr&redirect=true)
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=pynkstarr&&style=flat-square" align="center" />
+</div>  
+  
+
