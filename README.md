@@ -41,3 +41,5 @@ src="https://img.shields.io/github/followers/pynkstarr?logo=github&style=for-the
 <a href="http://www.github.com/pynkstarr"><img src="https://github-readme-stats.vercel.app/api?username=pynkstarr&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=6366f1&bg_color=581c87&hide_border=true&show_icons=true" alt="pynkstarr's GitHub stats" /></a>
 
 <a href="http://www.github.com/pynkstarr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pynkstarr&stroke=ffffff&background=581c87&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pynkstarr&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
