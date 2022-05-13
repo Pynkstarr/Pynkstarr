@@ -42,4 +42,6 @@ src="https://img.shields.io/github/followers/pynkstarr?logo=github&style=for-the
 
 <a href="http://www.github.com/pynkstarr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pynkstarr&stroke=ffffff&background=581c87&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pynkstarr&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
+<h2> Music </h2>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pynkstarr&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=pynkstarr&redirect=true)
