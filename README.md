@@ -9,7 +9,7 @@ Fashionable Software Engineer
 <a href="https://www.github.com/pynkstarr" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/pynkstarr?logo=github&style=for-the-badge&color=6366f1&labelColor=581c87" /></a>
 
-<h2> Skill!</h2>
+<h2> Skills!</h2>
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
