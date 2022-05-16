@@ -27,9 +27,9 @@ src="https://img.shields.io/github/followers/pynkstarr?logo=github&style=for-the
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/pynkstarr"><img src="https://github-readme-stats.vercel.app/api?username=pynkstarr&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=6366f1&bg_color=581c87&hide_border=true&show_icons=true" alt="pynkstarr's GitHub stats" /></a>
+<a href="http://www.github.com/pynkstarr"><img src="https://github-readme-stats.vercel.app/api?username=pynkstarr&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ec4899&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="pynkstarr's GitHub stats" /></a>
 
-<a href="http://www.github.com/pynkstarr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pynkstarr&stroke=ffffff&background=581c87&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/pynkstarr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pynkstarr&stroke=ec4899&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ec4899&currStreakLabel=ffffff&sideNums=ec4899&sideLabels=ec4899&dates=ec4899&hide_border=true" /></a>
 
 <h2> Music </h2>
 
