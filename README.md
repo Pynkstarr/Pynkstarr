@@ -4,7 +4,7 @@ Hi 👋 My name is Dominique
 Fashionable Software Engineer
 -----------------------------
 
-* 🌍  I'm based in Newark, NJ
+* 🌍  I'm based in NJ
 
 <a href="https://www.github.com/pynkstarr" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/pynkstarr?logo=github&style=for-the-badge&color=6366f1&labelColor=581c87" /></a>
